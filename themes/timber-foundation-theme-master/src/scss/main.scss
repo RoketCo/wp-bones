@@ -31,7 +31,6 @@
 //----------------------------------*/
 
 @import "helpers/variables";
-@import "helpers/functions";
 @import "helpers/mixins";
 
 //----------------------------------*\
@@ -40,7 +39,6 @@
 
 @import "base/components";
 @import "base/pages";
-@import "layout/grid";
 @import "layout/header";
 @import "layout/navigation";
 @import "layout/footer";
@@ -49,9 +47,7 @@
 // OBJECTS & MODULES
 //----------------------------------*/
 
-@import "helpers/helpers";
 @import "base/typography";
-@import "base/modules";
 
 
 //----------------------------------------------------------------------------------*\
