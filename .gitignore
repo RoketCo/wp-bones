@@ -1,5 +1,6 @@
 # Exclude these files from the git repo
 /uploads/*
+debug.log
 
 # Hidden system files
 *.DS_Store
