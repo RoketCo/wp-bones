@@ -1,0 +1,7 @@
+# Exclude these files from the git repo
+/uploads/*
+
+# Hidden system files
+*.DS_Store
+*[Tt]humbs.db
+*.Trashes
